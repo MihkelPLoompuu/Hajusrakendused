@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<arvutid>
+    <arvuti>
+        <protsessor taktisagedus="4.3" suursujärk="1e9" tootja="AMD">Ryzen 7 9800X3D</protsessor>
+        <operatiivmälu  tüüp="DDR5" andmeedastuskiirus="5600" kogus="32">32GB</operatiivmälu>
+        <salvestusmälu tüüp="MVMe" tootja="Samsung" kogus="2">Samsung 990 PRO 2 TB</salvestusmälu>
+        <jahutus tüüp="Vesijahutus">Vesijahutus protsessorile NZXT Kraken Elite 360 RGB</jahutus>
+        <emaplaat tootja="MSI">
+            <nimetus>MSI B550-A PRO</nimetus>
+            <protsessoripesa>AM4</protsessoripesa>
+        </emaplaat>
+        <toiteplokid tootja="Corsair" võimsus="1000" värvus="must">Corsair RMx Series RM1000x 1000 W</toiteplokid>
+        <klaviatuur värvus="must">Razer Huntsman V3 Pro Mini, US, must</klaviatuur>
+        <videokaart>MSI GeForce RTX 5070</videokaart>
+        <monitor>LC-Power 124,5cm 49" LC-M49-DFHD-144-C-Q VADPHDMI</monitor>
+        <hiir>Juhtmeta mänguhiir Trust GXT 929 HELOX, must</hiir>
+        <korpus>Zalman N4 Rev.1</korpus>
+    </arvuti>
+</arvutid>
