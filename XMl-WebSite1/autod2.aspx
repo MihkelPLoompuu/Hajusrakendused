@@ -12,6 +12,9 @@
             <div>
                 <asp:Xml ID="xml" runat="server" DocumentSource="~/autod.xml" TransformSource="~/autod5.xslt" />
             </div>
+            <div>
+                <asp:Xml ID="xml1" runat="server" DocumentSource="~/autod.xml" TransformSource="~/autod6.xslt" />
+            </div>
         </div>
     </form>
 </body>
