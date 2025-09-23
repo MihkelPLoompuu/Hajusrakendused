@@ -85,6 +85,8 @@
     <Content Include="inimesed1.xsl" />
     <Content Include="inimesed2.xslt" />
     <Content Include="inimesed3.xslt" />
+    <Content Include="inimesed4.xslt" />
+    <Content Include="inimesed5.xslt" />
     <Content Include="Web.config" />
     <Content Include="inimesed.aspx" />
   </ItemGroup>

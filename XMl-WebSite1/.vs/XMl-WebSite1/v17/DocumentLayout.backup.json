@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\Hajusrakendused\\XMl-WebSite1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{790479D8-1D0A-4993-9ECF-263F41289683}|XMl-WebSite1.csproj|c:\\users\\opilane\\source\\repos\\hajusrakendused\\xml-website1\\autod6.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{790479D8-1D0A-4993-9ECF-263F41289683}|XMl-WebSite1.csproj|solutionrelative:autod6.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{790479D8-1D0A-4993-9ECF-263F41289683}|XMl-WebSite1.csproj|c:\\users\\opilane\\source\\repos\\hajusrakendused\\xml-website1\\inimesed5.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{790479D8-1D0A-4993-9ECF-263F41289683}|XMl-WebSite1.csproj|solutionrelative:inimesed5.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{790479D8-1D0A-4993-9ECF-263F41289683}|XMl-WebSite1.csproj|c:\\users\\opilane\\source\\repos\\hajusrakendused\\xml-website1\\autod2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{790479D8-1D0A-4993-9ECF-263F41289683}|XMl-WebSite1.csproj|solutionrelative:autod2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{790479D8-1D0A-4993-9ECF-263F41289683}|XMl-WebSite1.csproj|c:\\users\\opilane\\source\\repos\\hajusrakendused\\xml-website1\\inimesed.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{790479D8-1D0A-4993-9ECF-263F41289683}|XMl-WebSite1.csproj|solutionrelative:inimesed.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 13,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "autod6.xslt",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Hajusrakendused\\XMl-WebSite1\\autod6.xslt",
-              "RelativeDocumentMoniker": "autod6.xslt",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Hajusrakendused\\XMl-WebSite1\\autod6.xslt",
-              "RelativeToolTip": "autod6.xslt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
-              "WhenOpened": "2025-09-18T11:50:22.95Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "autod2.aspx",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Hajusrakendused\\XMl-WebSite1\\autod2.aspx",
-              "RelativeDocumentMoniker": "autod2.aspx",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Hajusrakendused\\XMl-WebSite1\\autod2.aspx",
-              "RelativeToolTip": "autod2.aspx",
+              "Title": "inimesed.aspx",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Hajusrakendused\\XMl-WebSite1\\inimesed.aspx",
+              "RelativeDocumentMoniker": "inimesed.aspx",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Hajusrakendused\\XMl-WebSite1\\inimesed.aspx",
+              "RelativeToolTip": "inimesed.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-18T11:43:40.648Z",
+              "WhenOpened": "2025-09-23T10:15:52.383Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inimesed5.xslt",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Hajusrakendused\\XMl-WebSite1\\inimesed5.xslt",
+              "RelativeDocumentMoniker": "inimesed5.xslt",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Hajusrakendused\\XMl-WebSite1\\inimesed5.xslt",
+              "RelativeToolTip": "inimesed5.xslt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2025-09-23T10:15:50.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
